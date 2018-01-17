@@ -4,7 +4,7 @@
 # StringToPngForPapirus
 PNG image generator for PaPiRus e-papers. This python convert texts to suitable PNG images for PaPiRus. This can be used for Japanese texts.
 
-> 再配布可能なIPAフォントで日本語の文字列も変換できます。他のフォントを使いたい方は、スクリプトをいい感じに直して使ってください。
+> 再配布可能なIPAフォントを使っていますので、日本語の文字列も変換できます。他のフォントを使いたい方は、スクリプトをいい感じに直して使ってください。
 
 
 # How to use
@@ -16,7 +16,7 @@ python string_to_png.py -s StringToPngForPapirus
 
 Then you can get `output.png` like following.
 
-![StringToPngForPapirus](https://lh3.googleusercontent.com/FaE4ouQKO4oNHKMi7JOWakvjnnFd0Z7mDlta5FgZ8enSp9hExJaOuelIw2ROaacvOnFpjI9xKtqRgcAUp2iICWWb3SQCwLSGIHzKBJHSFe5KXJJ_iGgKMdVcke3ZMkAUjkcomsT3uOk=s600 "StringToPngForPapirus")
+> ![StringToPngForPapirus](https://lh3.googleusercontent.com/FaE4ouQKO4oNHKMi7JOWakvjnnFd0Z7mDlta5FgZ8enSp9hExJaOuelIw2ROaacvOnFpjI9xKtqRgcAUp2iICWWb3SQCwLSGIHzKBJHSFe5KXJJ_iGgKMdVcke3ZMkAUjkcomsT3uOk=s600 "StringToPngForPapirus")
 
 
 After that, set the image to a PaPiRus e-paper like this.
